@@ -1,0 +1,164 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$kq7a9sKSPdijjtuOSvUSGE$V3y8SsMdhOWjBlEsCEUtk4Km+FSwW8zMYrYgPkjMRjU=",
+    "last_login": "2024-05-23T08:26:53.084Z",
+    "is_superuser": true,
+    "username": "bhanu",
+    "first_name": "",
+    "last_name": "",
+    "email": "batchubhanu@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-23T08:26:30.958Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$JwVHNIepMAX5MjlLnyKmjW$ZQHHnAB/oCN1Q/4nMmSH+owq9cJeQax7RSksJPVZiFI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "saimanikiran",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-23T08:28:44.297Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$1fYFpQOOTqLtcHH2hnWsHC$puqHr8aSk9tmMTm0o0eaRh6DANNoWWzhcyhTX02IW0E=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "AmritaLaasya",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-23T09:49:14.359Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$GMSBpkCwZQMzcwnPz5WDOh$4z6q4oASUhgps+n9sQzCjoOOLFMcizl1wAB/qvAOWXg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "likhith",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-23T09:53:44.690Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$373DW55DzXQIxioMeoko86$HeO9YqEf65V9V2phJLawrNdywtDu8UMX30Bfhmf4rKM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "rajeev_1",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-05-23T09:55:26.829Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$LqGCbbgKGsq024TW8pixld$SB34JSR8kGzqEIshr5lmsYHKQy1thDKndY23gpiUnY0=",
+    "last_login": "2024-05-23T10:05:18.514Z",
+    "is_superuser": true,
+    "username": "ab",
+    "first_name": "",
+    "last_name": "",
+    "email": "ab@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-23T10:01:21.811Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$vDtLHcs1c4vzkY2VTtxVIZ$4BU53CenspEOhOOxIf2BEZ84l+BAJodPnTqhxSEBWPM=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "lb",
+    "first_name": "",
+    "last_name": "",
+    "email": "lb@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-23T10:02:38.317Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$VBMFtGvsgZe8JhbzcEz8lo$tDEmIYs0oSa3BQenGch30+Wwzkix4J8OF4fXiAyV0mI=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "vm",
+    "first_name": "",
+    "last_name": "",
+    "email": "vm@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-23T10:03:16.582Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$o6CrEjssn1g0PzNRsDVF4P$huuqWlVfz4UJxiF4sLvv9Ps+nACeKBEpThp46vkZn8s=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "sk",
+    "first_name": "",
+    "last_name": "",
+    "email": "sk@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-23T10:04:30.905Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
